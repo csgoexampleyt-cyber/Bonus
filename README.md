@@ -3,6 +3,6 @@
 git clone https://github.com/csgoexampleyt-cyber/Bonus.git
 cd Bonus
 2) Compile the program:\
-javac MSTReplacement.java\
+javac MSTReplacement.java
 3) Run the program:\
-java MSTReplacement\
+java MSTReplacement
